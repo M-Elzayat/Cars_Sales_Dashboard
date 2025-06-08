@@ -116,3 +116,8 @@ This solution helps stakeholders:
 **Mahmoud Elzayat**  
 Email: mahmoudelzeiat7@gmail.com  
 LinkedIn: [linkedin.com/in/mahmoud-elzayat-data-analysis](https://www.linkedin.com/in/mahmoud-elzayat-data-analysis)
+
+## License
+
+This project is licensed under the Creative Commons BY-NC-ND 4.0 License.  
+© Mahmoud Mohamed Fawzy Elzayat, 2025 — All rights reserved.
